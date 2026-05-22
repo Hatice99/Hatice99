@@ -56,7 +56,7 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/hatice-taylan-agir-588415236/?skipRedirect=true)
+- **LinkedIn**: [Hatice Taylan Agir](https://www.linkedin.com/in/hatice-taylan-agir-588415236/?skipRedirect=true)
 
 ---
 
