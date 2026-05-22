@@ -48,12 +48,6 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 
 ---
 
-## 📊 GitHub Stats
-
-![Hatice99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hatice99&theme=dark&show_icons=true)
-
----
-
 ## 🤝 Let's Connect
 
 - **LinkedIn**: [Hatice Taylan Agir](https://www.linkedin.com/in/hatice-taylan-agir-588415236/?skipRedirect=true)
