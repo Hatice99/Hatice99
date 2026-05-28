@@ -7,7 +7,7 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 ## 💻 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, HTML, CSS
-- **Backend**: Django, Spring, REST API
+- **Backend**: Spring, REST API, Django
 - **Databases**: SQL
 - **Tools & Platforms**: Git, Git Bash, VS Code, GitHub
 - **Focus Areas**: Software Development, Project Management
@@ -17,11 +17,10 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 ## 🚀 Featured Projects
 
 ### 1. **Goals Systems API** - Turn Goals Into Systems
-- An app that helps users transform abstract goals into recurring actionable systems
+- An app that helps users transform abstract goals into recurring, actionable systems
 - Inspired by Atomic Habits: *"You do not rise to the level of your goals. You fall to the level of your systems."*
 - Features:
   - Goal decomposition and system creation
-  - Recurring action scheduling
   - Progress tracking and analytics
   - RESTful API architecture
 - **Status**: 🔄 Currently Working On
