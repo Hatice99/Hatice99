@@ -24,7 +24,7 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
   - Progress tracking and analytics
   - RESTful API architecture
 - **Status**: 🔄 Currently Working On
-- [View Repository](https://github.com/Hatice99/goals-systems-api)
+- [View Repository](https://github.com/Hatice99/goal-systems-api)
 
 ### 2. **CashCard** - REST API Financial Application
 - RESTful API for managing digital cash cards
