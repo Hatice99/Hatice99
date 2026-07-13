@@ -24,8 +24,7 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 - Layered architecture with RESTful CRUD endpoints
 - User registration and JWT-based authentication
 - PostgreSQL via Docker; API documented with Swagger/OpenAPI
-
-[View Repository](https://github.com/Hatice99/goal-system-api)
+- [View Repository](https://github.com/Hatice99/goal-system-api)
 
 ### 2. **CashCard** - REST API Financial Application
 - RESTful API for managing digital cash cards
