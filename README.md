@@ -17,11 +17,9 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 
 ## 🚀 Featured Projects
 
-### 1. **Goals Systems API** - Turn Goals Into Systems ✅ COMPLETED
+### 1. **Goals Systems API** - Turn Goals Into Systems 
 - An app that helps users transform abstract goals into recurring, actionable systems
 - Inspired by Atomic Habits: *"You do not rise to the level of your goals. You fall to the level of your systems."*
-- **Technologies**: Spring Boot, Java, PostgreSQL, Docker, REST API
-- **Status**: ✅ Finished
 - [View Repository](https://github.com/Hatice99/goal-system-api)
 
 ### 2. **CashCard** - REST API Financial Application
