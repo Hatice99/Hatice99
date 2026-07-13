@@ -1,29 +1,27 @@
 # Hey there! 👋 Welcome to my GitHub
 
-I'm an **enthusiastic software developer** currently focused on **Java**, passionate about building clean, efficient code and solving complex problems. Exploring full-stack development and algorithms. Currently working on the **Goals Systems API** - transforming abstract goals into actionable recurring systems.
+I'm an **enthusiastic software developer** currently focused on **Java**, passionate about building clean, efficient code and solving complex problems. Exploring full-stack development and algorithms.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, HTML, CSS
-- **Backend**: Spring, REST API, Django
-- **Databases**: SQL
-- **Tools & Platforms**: Git, Git Bash, VS Code, GitHub
-- **Focus Areas**: Software Development, Project Management
+- **Backend**: Spring, Spring Boot, REST API, Django
+- **Databases**: SQL, PostgreSQL
+- **Containerization & DevOps**: Docker, Docker Compose
+- **Tools & Platforms**: Git, Git Bash, VS Code, GitHub, Maven
+- **Focus Areas**: Backend Development, REST APIs, Microservices, Clean Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **Goals Systems API** - Turn Goals Into Systems
+### 1. **Goals Systems API** - Turn Goals Into Systems ✅ COMPLETED
 - An app that helps users transform abstract goals into recurring, actionable systems
 - Inspired by Atomic Habits: *"You do not rise to the level of your goals. You fall to the level of your systems."*
-- Features:
-  - Goal decomposition and system creation
-  - Progress tracking and analytics
-  - RESTful API architecture
-- **Status**: 🔄 Currently Working On
+- **Technologies**: Spring Boot, Java, PostgreSQL, Docker, REST API
+- **Status**: ✅ Finished
 - [View Repository](https://github.com/Hatice99/goal-system-api)
 
 ### 2. **CashCard** - REST API Financial Application
@@ -53,9 +51,10 @@ I'm an **enthusiastic software developer** currently focused on **Java**, passio
 
 ## 🎯 What I'm Currently Working On
 
-- Building the **Goals Systems API** - transforming abstract goals into actionable recurring systems
-- Deepening expertise in Spring Boot and REST API development
+- Exploring advanced Spring Boot patterns and microservices architecture
+- Deepening expertise in containerization and DevOps practices
 - Solving algorithmic challenges to strengthen problem-solving skills
+- Building scalable REST APIs with clean architecture principles
 
 ---
 
